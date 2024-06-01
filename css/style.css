@@ -29,6 +29,13 @@ body{
     padding: 0 5%;
     margin: 0 auto;
 }
+.btn-gradient{
+    padding: 10px 25px;
+    color: white;
+    border: none;
+    cursor: pointer;
+    background-image: var(--degrade-btn);
+}
 
 nav{
     display: flex;
@@ -56,3 +63,4 @@ nav{
 .ul li a{
     color: white;
 }
+
