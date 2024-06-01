@@ -75,3 +75,12 @@ main .container{
     width: 50%;
     color: white;
 }
+
+.main-text h1{
+    font-size: 4.5rem;
+}
+
+.main-text div{
+    display: flex;
+    align-items: center;
+}
