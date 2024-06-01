@@ -84,3 +84,11 @@ main .container{
     display: flex;
     align-items: center;
 }
+
+.main-img{
+    width: 50%;
+}
+
+.main-img img{
+    width: 100%;
+}
