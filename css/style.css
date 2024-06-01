@@ -9,3 +9,15 @@
 body{
     font-family: 'Poppins', sans-serif;
 }
+:root{
+    --verde-escuro: #144b29;
+    --verde: #2f9364;
+    --laranja: #ff7c37;
+    --degrade-btn: linear-gradient(#fe9611, #ff5c00);
+    --color-p: #a1a1a1;
+    --color-p-2: #868585;
+}
+
+.background-verde{
+    background: var(--verde-escuro);
+}
