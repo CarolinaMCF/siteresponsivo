@@ -103,6 +103,18 @@ main .container{
     background: var(--laranja);
 }
 
+.resultados .container{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.resultados .resultados-text{
+    color: white;
+    font-size: 1.6rem;
+    font-weight: 600;
+    width: 50%;
+}
 @media (max-width: 960px){
     .menu-icon{
         display: block;
