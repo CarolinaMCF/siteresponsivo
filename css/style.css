@@ -131,4 +131,7 @@ main .container{
         width: 100%;
         text-align: center;
     }
+    main .container .main-text div{
+        justify-content: center;
+    }
 }
