@@ -64,3 +64,14 @@ nav{
     color: white;
 }
 
+main .container{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 30px;
+}
+
+.main-text{
+    width: 50%;
+    color: white;
+}
