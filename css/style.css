@@ -110,4 +110,7 @@ main .container{
         height: 100%;
         left: 100%;
     }
+    .ul.ativo{
+        left: 0;
+    }
 }
