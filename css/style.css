@@ -124,9 +124,7 @@ main .container{
     main .container{
         flex-direction: column;
     }
-    main .container .main-img{
-        width: 100%;
-    }
+    main .container .main-img,
     main .container .main-text{
         width: 100%;
         text-align: center;
